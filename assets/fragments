@@ -1,0 +1,44 @@
+<section id="privacy-policy" role="region" aria-labelledby="privacy-heading" itemscope itemtype="https://schema.org/PrivacyPolicy">
+  <h2 id="privacy-heading" itemprop="name">Privacy Policy</h2>
+  <p itemprop="description">
+    This website uses cookies to enhance user experience. No personal data is stored without explicit consent.
+  </p>
+  <p>
+    For more details, see our <a href="/assets/fragments/disclaimer.html" rel="nofollow">Disclaimer</a>.
+  </p>
+</section>
+<section id="disclaimer" role="contentinfo" aria-labelledby="disclaimer-heading">
+  <h2 id="disclaimer-heading">Legal Disclaimer</h2>
+  <p>
+    Content provided on this site is for informational purposes only and does not constitute medical or legal advice.
+  </p>
+  <p>
+    Affiliate links may be used. We may earn a commission at no extra cost to you.
+  </p>
+</section>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Aging Health",
+  "url": "https://aginghealth.website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://aginghealth.website/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<section id="accessibility" role="region" aria-labelledby="accessibility-heading">
+  <h2 id="accessibility-heading">Accessibility Statement</h2>
+  <p>
+    We are committed to ensuring digital accessibility for all users. Our site follows WCAG 2.1 AA guidelines and uses semantic HTML, ARIA roles, and responsive design.
+  </p>
+  <p>
+    If you encounter accessibility barriers, please contact us at <a href="mailto:access@aginghealth.website">access@aginghealth.website</a>.
+  </p>
+</section>
+
+
+
+
